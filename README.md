@@ -1,6 +1,12 @@
 # Kích hoạt office 2024 Prolus vĩnh viễn
+- ![image](https://github.com/user-attachments/assets/892ab962-1334-4126-9b74-42be48da0f04)
+- ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
 # CÁCH 1:
+- Dùng MAS Tool để active:
+- https://github.com/BsNgChiThanh/MAS-TOOL
+
+# CÁCH 2:
 - ĐẦU TIÊN KÍCH HOẠT BẰNG KEY KMS 180 NGÀY:
   - Chạy **cmd** bằng quyền **Run as Administrator** rồi dán đoạn lệnh này vào, nhấn enter:
   ```PHP
