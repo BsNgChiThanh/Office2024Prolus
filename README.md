@@ -4,6 +4,7 @@
 - [Source nguồn cài đặt:](https://gravesoft.dev/office_c2r_links)
   - https://raw.githubusercontent.com/BsNgChiThanh/Office2024Prolus/IMP/Office2024VolumeLicensePack_x64.exe
   - https://raw.githubusercontent.com/BsNgChiThanh/Office2024Prolus/IMP/Office2024VolumeLicensePack_x86.exe
+  - [ProPlus2024Retail](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=de-de&version=O16GA)
 # CÁCH 1:
 - Dùng MAS Tool để active:
 - https://github.com/BsNgChiThanh/MAS-TOOL
