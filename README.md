@@ -1,7 +1,7 @@
 # Kích hoạt office 2024 Prolus vĩnh viễn
 - ![image](https://github.com/user-attachments/assets/892ab962-1334-4126-9b74-42be48da0f04)
 - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
-- Source nguồn cài đặt:
+- [Source nguồn cài đặt:](https://gravesoft.dev/office_c2r_links)
   - https://raw.githubusercontent.com/BsNgChiThanh/Office2024Prolus/IMP/Office2024VolumeLicensePack_x64.exe
   - https://raw.githubusercontent.com/BsNgChiThanh/Office2024Prolus/IMP/Office2024VolumeLicensePack_x86.exe
 # CÁCH 1:
