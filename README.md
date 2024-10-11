@@ -33,4 +33,6 @@
   irm https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/GiaHanKichHoat.ps1 | iex
   ```
   - ![image](https://github.com/user-attachments/assets/c61d847b-f874-4549-92af-f49985044f7e)
+  - ![image](https://github.com/user-attachments/assets/c2f80cd0-973c-4ef1-a297-4ff1788eea95)
+
 - DONE!
