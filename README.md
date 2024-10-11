@@ -5,6 +5,8 @@
   - https://raw.githubusercontent.com/BsNgChiThanh/Office2024Prolus/IMP/Office2024VolumeLicensePack_x64.exe
   - https://raw.githubusercontent.com/BsNgChiThanh/Office2024Prolus/IMP/Office2024VolumeLicensePack_x86.exe
   - [ProPlus2024Retail](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=de-de&version=O16GA)
+
+Có nhiều cách kích hoạt, xong tôi chỉ ra 2 cách kích hoạt điển hình nhất.
 # CÁCH 1:
 - Dùng MAS Tool để active:
 - https://github.com/BsNgChiThanh/MAS-TOOL
