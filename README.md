@@ -24,9 +24,8 @@ Có nhiều cách kích hoạt, xong tôi chỉ ra 2 cách kích hoạt điển 
   set v=16
   if exist "%ProgramFiles%\Microsoft Office\Office%v%\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office%v%"
   if exist "%ProgramFiles(x86)%\Microsoft Office\Office%v%\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office%v%"
+  
   for /f %x in ('dir /b ..\root\Licenses16\ProPlus2024VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
-
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_KMS*.xrm-ms" 
 
   cscript ospp.vbs /setprt:1688 
   cscript ospp.vbs /inpkey:2TDPW-NDQ7G-FMG99-DXQ7M-TX3T2
