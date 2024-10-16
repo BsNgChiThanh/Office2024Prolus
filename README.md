@@ -25,7 +25,22 @@ Có nhiều cách kích hoạt, xong tôi chỉ ra 2 cách kích hoạt điển 
   if exist "%ProgramFiles%\Microsoft Office\Office%v%\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office%v%"
   if exist "%ProgramFiles(x86)%\Microsoft Office\Office%v%\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office%v%"
   for /f %x in ('dir /b ..\root\Licenses16\ProPlus2024VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
-  cscript ospp.vbs /setprt:1688
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_KMS_Client_AE-ppd"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_KMS_Client_AE-ul"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_KMS_Client_AE-ul-oob"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE1-pl"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE1-ppd"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE1-ul-oob"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE1-ul-phn"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE2-pl"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE2-ppd"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE2-ul-oob"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE2-ul-phn"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE3-pl"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE3-ppd"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE3-ul-oob"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProPlus2024VL_MAK_AE3-ul-phn"
+  cscript ospp.vbs /setprt:1688 
   cscript ospp.vbs /inpkey:2TDPW-NDQ7G-FMG99-DXQ7M-TX3T2
   cscript ospp.vbs /inpkey:VWCNX-7FKBD-FHJYG-XBR4B-88KC6
   cscript ospp.vbs /sethst:107.175.77.7
